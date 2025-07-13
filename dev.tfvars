@@ -6,5 +6,5 @@ enable_nat_gateway = true
 private_dns_zone_name = "dev.flwn.com"
 tags = {
   Environment = "dev"
-  Project     = "flownomics-vpc"
+  Project     = "flownomics"
 }
